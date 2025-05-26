@@ -1,0 +1,26 @@
+<Task aat_min_time="10800" type="AAT">
+	<Point type="Start">
+		<Waypoint altitude="82" name="Kammermark">
+			<Location latitude="53.195278" longitude="12.164167"/>
+		</Waypoint>
+		<ObservationZone length="20000.0" type="Line"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="65" name="Strasen">
+			<Location latitude="53.204367" longitude="12.999433"/>
+		</Waypoint>
+		<ObservationZone radius="28000.0" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="49" name="Koenigsbergn See">
+			<Location latitude="53.05605" longitude="12.434083"/>
+		</Waypoint>
+		<ObservationZone radius="10000.0" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="82" name="Kammermark">
+			<Location latitude="53.195278" longitude="12.164167"/>
+		</Waypoint>
+		<ObservationZone radius="4000.0" type="Cylinder"/>
+	</Point>
+</Task>
