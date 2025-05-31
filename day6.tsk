@@ -1,0 +1,26 @@
+<Task aat_min_time="3600" type="AAT">
+	<Point type="Start">
+		<Waypoint altitude="82" name="Kammermark">
+			<Location latitude="53.195278" longitude="12.164167"/>
+		</Waypoint>
+		<ObservationZone length="20000.0" type="Line"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="17" name="Bruenkendorf VOR">
+			<Location latitude="53.034533" longitude="11.546133"/>
+		</Waypoint>
+		<ObservationZone radius="19000.0" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="60" name="RP BIRMO">
+			<Location latitude="52.8722" longitude="12.066667"/>
+		</Waypoint>
+		<ObservationZone radius="19000.0" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="82" name="Kammermark">
+			<Location latitude="53.195278" longitude="12.164167"/>
+		</Waypoint>
+		<ObservationZone radius="4000.0" type="Cylinder"/>
+	</Point>
+</Task>
