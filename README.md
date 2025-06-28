@@ -1,4 +1,4 @@
-**Live-Tracking for Schimmelcup 2025** with OGN WebViewer (ogn.cloud) and Glidertracker (glidertracker.org). Only the latter really worked.
+**Live-Tracking for Schimmelcup 2025** with Glidertracker (glidertracker.org) and OGN WebViewer (ogn.cloud). Only the first one really worked.
 
 ### Glidertracker
 
